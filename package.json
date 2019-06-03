@@ -1,0 +1,23 @@
+{
+  "name": "api_task",
+  "version": "0.0.1",
+  "description": "Api CRUD testing",
+  "repository": {
+    "type": "git",
+    "url": "https://mobilewebserver9-pokertest8ext.installprogram.eu"
+  },
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "author": "Yaroslav Tumanov",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://mobilewebserver9-pokertest8ext.installprogram.eu",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^6.1.4"
+  }
+}
